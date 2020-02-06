@@ -1,5 +1,5 @@
 import Logger from './helpers/Logger';
-import ErrorRotunda from './library/ErrorRotunda';
+import ErrorRotunda from './libraries/ErrorRotunda';
 import errorLevels from './constants/errorLevels';
 
 const logger = new Logger();

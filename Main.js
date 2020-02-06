@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
 var Logger_1 = require("./helpers/Logger");
-var ErrorRotunda_1 = require("./library/ErrorRotunda");
+var ErrorRotunda_1 = require("./libraries/ErrorRotunda");
 var errorLevels_1 = require("./constants/errorLevels");
 var logger = new Logger_1["default"]();
 var message, errorRotunda;

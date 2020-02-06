@@ -1,6 +1,6 @@
 "use strict";
 exports.__esModule = true;
-var Alarmer_1 = require("./../library/Alarmer");
+var Alarmer_1 = require("./../libraries/Alarmer");
 var errorLevels_1 = require("./../constants/errorLevels");
 var Logger = /** @class */ (function () {
     function Logger() {

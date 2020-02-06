@@ -1,5 +1,5 @@
-import ErrorRotunda from './../library/ErrorRotunda';
-import Alarmer from './../library/Alarmer';
+import ErrorRotunda from './../libraries/ErrorRotunda';
+import Alarmer from './../libraries/Alarmer';
 import errorLevels from './../constants/errorLevels';
 
 class Logger {
